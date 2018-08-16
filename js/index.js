@@ -87,4 +87,4 @@ function getData(url){
     })
 }
 
-getData("../mock/data.json")
+getData("../HTML5-Player/mock/data.json")
