@@ -1,0 +1,29 @@
+[
+    {
+        "image": "../source/song_1.png",
+        "audio": "../source/song_1.mp3",
+        "song": "千本桜",
+        "album": "木吉他演奏",
+        "singer": "武士桑",
+        "duration": 228,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.png",
+        "audio": "../source/song_2.mp3",
+        "song": "她说",
+        "album": "她说",
+        "singer": "林俊杰",
+        "duration": 320,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.png",
+        "audio": "../source/song_3.mp3",
+        "song": "体面",
+        "album": "体面",
+        "singer": "于文文",
+        "duration": 282,
+        "isLike": false
+    }
+]
