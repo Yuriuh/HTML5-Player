@@ -77,5 +77,5 @@ npm install or yarn install
 gulp
 // npm run build(打包)
 ```
-#### 4、打开浏览器浏览 [http://localhost:8080/](http://localhost:8080/)，强烈建议使用 Chrome、Firefox 浏览器浏览。
+#### 4、打开浏览器浏览 [http://localhost:8081/](http://localhost:8080/)，强烈建议使用 Chrome、Firefox 浏览器浏览。
 
