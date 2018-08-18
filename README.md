@@ -74,7 +74,7 @@ npm install or yarn install
 ```
 #### 3、执行
 ```javascript
-npm start or yarn start
+gulp
 // npm run build(打包)
 ```
 #### 4、打开浏览器浏览 [http://localhost:8080/](http://localhost:8080/)，强烈建议使用 Chrome、Firefox 浏览器浏览。
